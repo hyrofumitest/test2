@@ -7,5 +7,5 @@ function test2() {
 }
 
 function test3() {
-	console.log("test3");
+	alert("test3");
 }
